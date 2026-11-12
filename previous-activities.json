@@ -1,5 +1,17 @@
 [
     {
+        "name": "Torneo Super Smash Bros Ultimate",
+        "date": "04/11/2026",
+        "image": "/actividades/assets/img/activities/nintendo_switch_black.svg",
+        "link": ""
+    },
+    {
+        "name": "Charla Magic The Gathering",
+        "date": "29/10/2026",
+        "image": "/actividades/assets/img/activities/pentagon.svg",
+        "link": "https://www.instagram.com/p/DfAmIE9x1qx/"
+    },
+    {
         "name": "Charla Dungeons & Dragons",
         "date": "14/10/2026",
         "image": "/actividades/assets/img/activities/dragon-d-white.svg",
